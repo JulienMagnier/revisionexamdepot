@@ -1,1 +1,1 @@
-Test du amend
+Test du amend par VS code
